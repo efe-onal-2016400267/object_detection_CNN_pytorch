@@ -1,0 +1,13 @@
+torch
+torchvision
+torcheval
+torchmetrics
+torchsummary
+numpy
+scikit-learn
+opencv-python
+pillow
+matplotlib
+seaborn
+kagglehub
+pycocotools
